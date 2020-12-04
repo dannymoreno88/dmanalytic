@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "www.dmanalytic.com"
+baseURL = "https://www.dmanalytic.com"
 title = "DM Analytic"
 theme = "educenter-hugo"
 # post pagination
