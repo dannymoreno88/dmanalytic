@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://www.dmanalytic.com/about/contact'
+apply_url: 'https://www.dmanalytic.com/contact/'
 bg_image: images/backgrounds/page-title.jpg
 category: Econometría, R
 date: "2019-07-06T15:27:17+06:00"

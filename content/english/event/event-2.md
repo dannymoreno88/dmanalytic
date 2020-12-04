@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://www.dmanalytic.com/about/contact'
+apply_url: 'https://www.dmanalytic.com/contact/'
 bg_image: images/backgrounds/page-title.jpg
 date: "2021-03-09T15:27:17+06:00"
 description: Este espacio está destinado a evaluar las propuestas, no candidatos, ni partidos.

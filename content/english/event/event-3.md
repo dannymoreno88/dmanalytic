@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://www.dmanalytic.com/about/contact'
+apply_url: 'https://www.dmanalytic.com/contact/'
 bg_image: images/backgrounds/page-title.jpg
 date: "2021-05-09T15:27:17+06:00"
 description: Analizaremos las variables socio-económicas
