@@ -15,7 +15,7 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Vuélvete en un Experto en Finanzas"
+    - title : "Vuélvete un Experto en Finanzas"
       content : "Aprende a realizar regresiones, clasificar y predecir instrumentos financieros"
       animation_in : "left"
       animation_out : "right"
