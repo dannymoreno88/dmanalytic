@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DM Analytic</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 15:27:17 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economía</title>
+      <link>/categories/econom%C3%ADa/</link>
+      <pubDate>Wed, 21 Oct 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/econom%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

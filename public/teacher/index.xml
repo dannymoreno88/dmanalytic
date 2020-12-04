@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestros Profesores on DM Analytic</title>
+    <link>/teacher/</link>
+    <description>Recent content in Nuestros Profesores on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright><atom:link href="/teacher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Danny Moreno</title>
+      <link>/teacher/danny-moreno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teacher/danny-moreno/</guid>
+      <description>Acerca de mí Soy de Quito, Ecuador; me gradué en la facultad de economía de la Pontificia Universidad Católica del Ecuador; estudié una Maestría en Gestión Económica y Financiera en Riesgos en la Universidad de Buenos Aires; y una Maestría en Econometría en la Universidad Torcuato di Tella.</description>
+    </item>
+    
+    <item>
+      <title>Nataly Grijalva</title>
+      <link>/teacher/nataly-grijalva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teacher/nataly-grijalva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

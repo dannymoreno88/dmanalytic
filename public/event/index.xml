@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on DM Analytic</title>
+    <link>/event/</link>
+    <description>Recent content in Eventos on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Sun, 09 May 2021 15:27:17 +0600</lastBuildDate><atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuál fue la afectación social del COVID-19 en Ecuador</title>
+      <link>/event/event-3/</link>
+      <pubDate>Sun, 09 May 2021 15:27:17 +0600</pubDate>
+      
+      <guid>/event/event-3/</guid>
+      <description>Acerca del evento El decrecimiento de la economía trae consigo problemas económicos y sociales.</description>
+    </item>
+    
+    <item>
+      <title>Propuestas de los candidatos presidenciales</title>
+      <link>/event/event-2/</link>
+      <pubDate>Tue, 09 Mar 2021 15:27:17 +0600</pubDate>
+      
+      <guid>/event/event-2/</guid>
+      <description>Acerca del evento Es época electoral y todos los candidatos tienen propuestas, algunas suenan coherentes y otras no tanto.</description>
+    </item>
+    
+    <item>
+      <title>Cuál es la herencia económica del gobierno de Lenín Moreno</title>
+      <link>/event/event-1/</link>
+      <pubDate>Fri, 15 Jan 2021 15:27:17 +0000</pubDate>
+      
+      <guid>/event/event-1/</guid>
+      <description>Acerca del evento Cuando Lenín Moreno empezó con su gobierno, la economía ecuatoriana, ya se encontraba en decrecimiento.</description>
+    </item>
+    
+  </channel>
+</rss>

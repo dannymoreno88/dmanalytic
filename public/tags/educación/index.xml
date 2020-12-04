@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educación on DM Analytic</title>
+    <link>/tags/educaci%C3%B3n/</link>
+    <description>Recent content in Educación on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Sun, 05 Jul 2020 15:27:17 +0600</lastBuildDate><atom:link href="/tags/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Mayor gasto en educación es igual a mayor calidad?</title>
+      <link>/blog/2020-07-05-educacion/</link>
+      <pubDate>Sun, 05 Jul 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/blog/2020-07-05-educacion/</guid>
+      <description>Todos los años el estado asigna un presupuesto hacia las instituciones públicas que dependen sus ingresos.</description>
+    </item>
+    
+  </channel>
+</rss>

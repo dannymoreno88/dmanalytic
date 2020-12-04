@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dernières nouvelles on DM Analytic</title>
+    <link>/fr/blog/</link>
+    <description>Recent content in Dernières nouvelles on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 15:27:17 +0600</lastBuildDate><atom:link href="/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelo Nowcasting predicción ciclo económico Ecuador</title>
+      <link>/fr/blog/2020-06-01-nowcasting/</link>
+      <pubDate>Wed, 21 Oct 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/fr/blog/2020-06-01-nowcasting/</guid>
+      <description>Proyectar como se comportará el crecimiento económico de un país permite tomar decisiones con anticipación, evitar perdidas y ajustarse al mercado.</description>
+    </item>
+    
+    <item>
+      <title>¿Mayor gasto en educación es igual a mayor calidad?</title>
+      <link>/fr/blog/2020-07-05-educacion/</link>
+      <pubDate>Sun, 05 Jul 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/fr/blog/2020-07-05-educacion/</guid>
+      <description>Todos los años el estado asigna un presupuesto hacia las instituciones públicas que dependen sus ingresos.</description>
+    </item>
+    
+    <item>
+      <title>¿A cuanto asciende la deuda pública del Ecuador?</title>
+      <link>/fr/blog/2020-04-21-deudapublica/</link>
+      <pubDate>Tue, 21 Apr 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/fr/blog/2020-04-21-deudapublica/</guid>
+      <description>Según la constitución del Ecuador el endeudamiento público se puede dar cumpliendo las siguientes regulaciones:</description>
+    </item>
+    
+    <item>
+      <title>Evolución Reservas Internacionales Ecuador</title>
+      <link>/fr/blog/2020-04-15-reservasint/</link>
+      <pubDate>Wed, 15 Apr 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/fr/blog/2020-04-15-reservasint/</guid>
+      <description>Las reservas internacionales (RI) son los recursos financieros acumulados que tiene un país para garantizar el pago de deudas, estabilizar la economía, externalidades negativas o eventos imprevistos.</description>
+    </item>
+    
+  </channel>
+</rss>

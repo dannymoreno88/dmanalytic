@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestros Cursos on DM Analytic</title>
+    <link>/course/</link>
+    <description>Recent content in Nuestros Cursos on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatización de reportes y dashboards</title>
+      <link>/course/course-16/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-16/</guid>
+      <description>Acerca del curso Te enseñaremos a usar dos herramientas gratuitas Rmarkdown y Shinny.</description>
+    </item>
+    
+    <item>
+      <title>Econometría I</title>
+      <link>/course/course-7/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-7/</guid>
+      <description>Acerca del curso Te enseñaremos distribuciones de probabilidad discretas y continuas.</description>
+    </item>
+    
+    <item>
+      <title>Econometría II</title>
+      <link>/course/course-8/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-8/</guid>
+      <description>Acerca del curso Te enseñaremos a realizar modelos no lineales. Aprenderás como dividir tus datos en entrenamiento, prueba, realizar validación de datos, subset selection models.</description>
+    </item>
+    
+    <item>
+      <title>Estadística Aplicada a Finanzas I</title>
+      <link>/course/course-11/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-11/</guid>
+      <description>Acerca del curso Te enseñaremos los fundamentos para analizar retornos (acciones) y valores de renta fija.</description>
+    </item>
+    
+    <item>
+      <title>Estadística Aplicada a Finanzas II</title>
+      <link>/course/course-12/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-12/</guid>
+      <description>Acerca del curso Usando instrumentos financieros, te enseñaremos a realizar regresiones lineales y no lineales.</description>
+    </item>
+    
+    <item>
+      <title>Estadística Aplicada a Finanzas III</title>
+      <link>/course/course-13/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-13/</guid>
+      <description>Acerca del curso Usando instrumentos financieros, te enseñaremos a elaborar variance function models, permitiendo que puedas modelar series con periodos de alta volatilidad.</description>
+    </item>
+    
+    <item>
+      <title>Excel avanzado</title>
+      <link>/course/course-2/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-2/</guid>
+      <description>Acerca del curso Te enseñaremos a usar herramientas más sofisticadas como tablas, tablas dinámicas, filtros, anidación de funciones, validación de datos, condicionantes visuales, gráficos dinámicos, segmentación de datos y macros.</description>
+    </item>
+    
+    <item>
+      <title>Excel desde cero</title>
+      <link>/course/course-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-1/</guid>
+      <description>Acerca del curso Te enseñaremos los fundamentos para trabajar eficientemente con Excel.</description>
+    </item>
+    
+    <item>
+      <title>Finanzas Corporativas I</title>
+      <link>/course/course-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-3/</guid>
+      <description>Acerca del curso Te enseñaremos fundamentos de calculo financiero, valor temporal del dinero y sistemas de amortización de deudas.</description>
+    </item>
+    
+    <item>
+      <title>Finanzas Corporativas II</title>
+      <link>/course/course-4/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-4/</guid>
+      <description>Acerca del curso Te enseñaremos que tipos de proyectos de inversión existen, como realizar un flujo de fondos, los distintos criterios de evaluación.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de Riesgos Financieros</title>
+      <link>/course/course-5/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-5/</guid>
+      <description>Acerca del curso Te enseñaremos como calcular y predecir riesgos financieros usando Excel.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de probabilidad o clasificación</title>
+      <link>/course/course-14/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-14/</guid>
+      <description>Acerca del curso Este tipo de modelos son conocidos por su versatilidad para trabajar con variables numéricas o categóricas.</description>
+    </item>
+    
+    <item>
+      <title>Predicción Futura o Forecasting</title>
+      <link>/course/course-15/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-15/</guid>
+      <description>Acerca del curso Te enseñaremos los fundamentos para realizar predicciones con series de tiempo.</description>
+    </item>
+    
+    <item>
+      <title>R desde cero</title>
+      <link>/course/course-6/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-6/</guid>
+      <description>Acerca del curso Te enseñaremos aspectos fundamentales para trabajar con R.</description>
+    </item>
+    
+    <item>
+      <title>Segmentación de mercados I</title>
+      <link>/course/course-10/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-10/</guid>
+      <description>Acerca del curso Te enseñaremos a realizar análisis y segmentación del mercado.</description>
+    </item>
+    
+    <item>
+      <title>Segmentación de mercados II</title>
+      <link>/course/course-9/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/course/course-9/</guid>
+      <description>Acerca del curso Te enseñaremos a realizar modelos para predecir tipos de consumidores.</description>
+    </item>
+    
+  </channel>
+</rss>

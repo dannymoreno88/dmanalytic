@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DM Analytic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 15:27:17 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecast</title>
+      <link>/tags/forecast/</link>
+      <pubDate>Wed, 21 Oct 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/tags/forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nowcasting</title>
+      <link>/tags/nowcasting/</link>
+      <pubDate>Wed, 21 Oct 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/tags/nowcasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educación</title>
+      <link>/tags/educaci%C3%B3n/</link>
+      <pubDate>Sun, 05 Jul 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/tags/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuda Pública</title>
+      <link>/tags/deuda-p%C3%BAblica/</link>
+      <pubDate>Tue, 21 Apr 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/tags/deuda-p%C3%BAblica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reservas Internacionales</title>
+      <link>/tags/reservas-internacionales/</link>
+      <pubDate>Wed, 15 Apr 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/tags/reservas-internacionales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

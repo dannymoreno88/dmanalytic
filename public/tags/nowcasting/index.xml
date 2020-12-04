@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nowcasting on DM Analytic</title>
+    <link>/tags/nowcasting/</link>
+    <description>Recent content in Nowcasting on DM Analytic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed by: Danny Moreno</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 15:27:17 +0600</lastBuildDate><atom:link href="/tags/nowcasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelo Nowcasting predicción ciclo económico Ecuador</title>
+      <link>/blog/2020-06-01-nowcasting/</link>
+      <pubDate>Wed, 21 Oct 2020 15:27:17 +0600</pubDate>
+      
+      <guid>/blog/2020-06-01-nowcasting/</guid>
+      <description>Proyectar como se comportará el crecimiento económico de un país permite tomar decisiones con anticipación, evitar perdidas y ajustarse al mercado.</description>
+    </item>
+    
+  </channel>
+</rss>
