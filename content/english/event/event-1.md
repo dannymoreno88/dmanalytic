@@ -1,5 +1,5 @@
 ---
-apply_url: '#'
+apply_url: 'https://www.dmanalytic.com/about/contact'
 bg_image: images/backgrounds/page-title.jpg
 date: "2021-01-15T15:27:17"
 description: Analizaremos cual fue su política aplicada y su desempeño
