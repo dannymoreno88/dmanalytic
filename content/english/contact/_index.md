@@ -5,7 +5,7 @@ draft: false
 title: Contáctanos
 ---
 
-Completa el formulario para inscribirte el algun curso o para inscribirte a nuestro curso gratuito mensual. También nos puedes dejar tus sugerencias sobre nuevos cursos que quisieras se abran.
+Completa el formulario para inscribirte a cualquier curso y escoge el horario que más te convenga. También nos puedes dejar tus sugerencias sobre nuevos cursos que quisieras que se aperturen o puedes inscribirte al curso gratuito de Finanzas para no Financieros.
 
 En cuanto recibamos tus requerimientos nos pondremos en contacto contigo. O puedes contactarte directamente con nosotros:
 
