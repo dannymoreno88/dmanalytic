@@ -45,7 +45,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Cursos capacitación data science, business intelligence, riesgos, economía, excel, econometría, finanzas"
+description = "Brindamos capacitación en el uso de programas y en estadística aplicada a: economía, finanzas, riesgos, segmentación de mercados, proyección de series de tiempo, modelos de predicción y modelos de probabilidad."
 author = "Danny Moreno"
 # contact info
 address = "Quito - Ecuador"
@@ -98,10 +98,10 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/dmanalytic"
 
-#[[params.social]]
-#title = "linkedin"
-#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-#link = "#"
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/dmanalytic"
 
 
 ################################### English language #####################################

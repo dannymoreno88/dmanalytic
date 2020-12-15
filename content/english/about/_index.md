@@ -7,10 +7,10 @@ title: Nosotros
 ---
 ## ¿Quiénes somos?
 
-Somos una empresa dedicada a brindar capacitaciones y asesorías en temas específicos enfocados a economía, econometría, finanzas, riesgos, segmentación de mercados, modelos de probabilidad, modelos de clasificación, modelos forecasting, entre otros.
+Brindamos capacitaciones en el uso de programas y en estadística aplicada a: economía, finanzas, riesgos, segmentación de mercados, proyección de series de tiempo, modelos de predicción y modelos de probabilidad.
 
-Desarrollamos una metodología efectiva y eficiente, donde vas a aprender la teoría a través de la práctica. Nuestros cursos son aplicados, usamos varios casos prácticos para que puedas afrontar cualquier desafío que puedas tener en el día a día.
+Desarrollamos una metodología eficiente, donde vas a aprender la teoría a través de la práctica. Nuestros cursos son prácticos, usamos casos reales para que sepas como aplicar tus nuevos conocimientos.
 
-Nuestro objetivo es brindarte herramientas necesarias para que puedas desarrollarte eficientemente en tus estudios o trabajo. Brindamos cursos ajustándonos a tus necesidades con diversas herramientas como R, Stata, EViews, SPSS, Excel.
+Buscamos desarrollar tus habilidades para que puedas desempeñarte eficientemente en tus estudios o trabajo. Nuestros cursos se ajustan a tus necesidades, a tu tiempo y son personalizados.
 
 Nuestros profesores son altamente capacitados, poseen título de cuarto nivel y tienen experiencia desempeñándose como profesionales. Trabajamos a nivel nacional e internacional.

@@ -17,31 +17,39 @@ weekly: 4 horas
 
 ### Acerca del curso
 
-Te enseñaremos que tipos de proyectos de inversión existen, como realizar un flujo de fondos, los distintos criterios de evaluación. Aprenderás a calcular la rentabilidad esperada, la variabilidad (riesgo relativo), riesgo de una cartera de activos. Conocerás modelo de equilibrio CAPM, como calcular el costo de oportunidad del capital, como evaluar dos proyectos con flujos constantes o variables, análisis de sensibilidad y arboles de decisión para valuar flexibilidad.
+En este curso aprenderás como evaluar proyectos de inversión y como realizar arboles de decisión. Te enseñaremos como calcular la rentabilidad esperara de una cartera de activos y cuantificar su riesgo. Los temas que veremos son:
 
-Veremos precio teórico, valor actual neto, periodo de repago simple, periodo de pago descontado, tasa interna de rentabilidad, tasa interna de rentabilidad modificada, indice de rentabilidad, rentabilidad esperada, variabilidad, covarianzas, CAPM, costo marginal del capital, costo de oportunidad del capital para un proyecto.
+- Valor Actual Neto
+- Periodo de repago simple y descontado
+- TIR
+- Rentabilidad esperada
+- CAPM
+- Costo marginal del capital
+- Costo de oportunidad del capital
+- Arboles de decisión
 
-Al final de curso estarás en condiciones realizar flujos de fondos de uno o varios proyectos de inversión. Podrás calcular su beneficio, su costo, comparar entre ellos. Encontrar puntos de equilibrio, comparar proyectos con distintos tipos de flujo y elaborar escenarios para minimizar riesgos.
+Al final de curso podrás realizar un flujo de fondos de tu empresa, podrás calcular la rentabilidad esperada de tu empresa y cuantificar su variabilidad (riesgos). Y podrás evaluar proyectos de inversión con flujos de fondos constantes o variables, determinando el que más convenga. </p>
 
 ### Requerimientos
 
 * Es recomendable que tengas tu propia computadora.
-
 * Es recomendable que hayas tomado nuestro curso de "Finanzas Corporativas I"
 
 ### Obtienes
 
 * Cuaderno de trabajo con todo lo que veremos en el curso, incluidos ejemplos
-
 * Bibliografía adicional para complementar el curso
-
 * Suscripción por tres meses al reporte económico mensual
-
 * Descuento si continuas con el siguiente curso
-
 * Certificado de participación
 
 
 ### Inversión
 
 Por persona tiene un valor de 45 USD. Si te acompañan más de dos personas se realiza un descuento grupal.
+
+### Horarios
+
+- Lunes y Miércoles de 8 PM a 10 PM
+- Martes y Jueves de 6 PM a 8 PM
+- Sábado de 3 PM a 7 PM

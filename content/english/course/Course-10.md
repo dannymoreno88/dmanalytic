@@ -16,31 +16,39 @@ weekly: 4 horas
 
 ### Acerca del curso
 
-Te enseñaremos a realizar análisis y segmentación del mercado. Primero aprenderás a identificar al consumidor en base a su localización geografica, socio-demografica,  psicologia y en función de su comportamiento. Luego conocerás como clasificarlos usando componentes principales, metodos de distancia, hierarchical methods, métodos híbridos y métodos de segmentación empíricos.
+La segmentación de mercados te permite conocer el perfil de tu cliente por cada producto, te permite clasificar a tus clientes para encontrar que segmento estas atendiendo y que segmento no estas atendiendo (nicho potencial), conocer las características de un cliente regular y predecir los segmentos de clientes para ofrecerles productos que podrían requerir.
 
-Veremos estadística descriptiva, gráficos de dispersión, análisis de componentes principales (PCA). distancia euclideana, distancia manhatan, cluster single linkage, cluster complete linkage, cluster average linkage, k-means, k-centroides, two step clustering, bagged clustering, finite mixture models.
+En este curso aprenderás a realizar un análisis de tu empresa y del mercado. Te enseñaremos como identificar a tus clientes y clasificarlos. Los temas que veremos son:
 
-Al final de curso estarás en condiciones de determinar el perfil del consumidor para cada producto o servicio. Sabrás cual es su comportamiento y podrás elaborar distintos métodos para clasificarlo. Con esta información entenderás cual es el segmento con el que estas trabajando, cual segmento es el que no estas atendiendo y cual segmento podría ser un nicho de mercado. </p>
+- Componentes Principales
+- Distancias
+- Cluster single linkage
+- Cluster average linkage
+- K-means
+- K-centroids
+- Two step clustering
+- Finite mixture models
+
+Al final de curso podrás determinar el perfil de tus clientes, determinarás su comportamiento en función de variables observables. Y podrás clasificarlo para determinar los segmentos con los cuáles trabajas y cuales podrían ser potenciales.</p>
 
 ### Requisitos
 
 * Es recomendable que tengas tu propia computadora
-
 * Es recomendable que hayas tomado nuestro curso de "R desde cero"
 
 ### Obtienes
 
 * Cuaderno de trabajo con todo lo que veremos en el curso, incluidos ejemplos
-
 * Bibliografía adicional para complementar el curso
-
 * Suscripción por tres meses al reporte económico mensual
-
-* Descuento si continuas con el siguiente curso
-
 * Certificado de participación
-
 
 ### Inversión
 
 Por persona tiene un valor de 45 USD. Si te acompañan más de dos personas se realiza un descuento grupal.
+
+### Horarios
+
+- Lunes y Miércoles de 6 PM a 8 PM
+- Martes y Jueves de 8 PM a 10 PM
+- Sábado de 9 AM a 1 PM

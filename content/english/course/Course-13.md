@@ -1,7 +1,7 @@
 ---
 apply_url: 'https://www.dmanalytic.com/contact/'
 bg_image: images/backgrounds/page-title.jpg
-category: R, Business Intelligence, Finanzas, Econometría
+category: R, Business Intelligence, Finanzas, Econometría, Forecasting
 date: "2019-07-06T15:27:17+06:00"
 description: Aplicado con R
 draft: false
@@ -17,36 +17,43 @@ weekly: 4 horas
 
 ### Acerca del curso
 
-Usando instrumentos financieros, te enseñaremos a elaborar variance function models, permitiendo que puedas modelar series con periodos de alta volatilidad. Aprenderás modelar los residuos, incorporando variabilidad, comprobaremos los efectos de cointegración en un portafolio, podrás medir el riesgo de los instrumentos financieros. Conoceras como descomponer las series de tiempo volatiles con factores o componentes principales y minimizar el riesgo usando valor en riesgo (VaR) y Expected Shortfall (ES).
+En este curso aprenderás instrumentos que te permitan incluir en tu modelo periodos donde exista alta volatilidad. Te enseñaremos incluir la influencia de los residuos en los modelos, como descomponer la serie de tiempo con factores y calcular la exposición al riesgo. Los temas que veremos son:
 
-Veremos ARCH, GARCH, ARIMA + GARCH, APARCH, EWMA, DOC, GARCH-M, cointegración, VECM, Risk-Efficient Portfolios with N Risky Assets, CAPM, modelos factoriales, componentes principales, Cross-Sectional Factor Models, VaR, ES, Bootstrap Confidence Intervals for VaR and ES,Estimating VaR and ES Using ARMA+GARCH Models.
+- ARCH
+- GARCH
+- ARIMA + GARCH
+- APARCH
+- GARCH-M
+- VECM
+- Modelos factoriales
+- Cross Sectional Factor Models
+- VaR
+- ES
 
-Al final del curso tendrás las habilidades para analizar, calificar y escoger los mejores instrumentos financieros para tu portafolio de inversiones, que generen mayor rentabilidad con la menor volatilidad. Podrás proyectar tus modelos a futuro y predecir eventos con variabilidad extrema.</p>
-
+Al final del curso podrás incluir en tu modelo de proyección de instrumento financiero variabilidad. Es decir, podrás proyectar con escenarios más reales. Por lo tanto, podrás recudir el riesgo y disminuir la perdida esperada.</p>
 
 ### Requerimientos
 
 * Es recomendable que tengas tu propia computadora.
-
 * Es recomendable que hayas tomado nuestro curso de "Econometría I"
-
 * Es recomendable que hayas tomado nuestro curso de "Estadística Aplicada a Finanzas I"
-
 * Es recomendable que hayas tomado nuestro curso de "Estadística Aplicada a Finanzas II"
 
 ### Obtienes
 
 * Cuaderno de trabajo con todo lo que veremos en el curso, incluidos ejemplos
-
 * Bibliografía adicional para complementar el curso
-
 * Suscripción por tres meses al reporte económico mensual
-
 * Descuento si continuas con el siguiente curso
-
 * Certificado de participación
 
 
 ### Inversión
 
 Por persona tiene un valor de 50 USD. Si te acompañan más de dos personas se realiza un descuento grupal.
+
+### Horarios
+
+- Lunes y Miércoles de 6 PM a 8 PM
+- Martes y Jueves de 8 PM a 10 PM
+- Sábado de 9 AM a 1 PM

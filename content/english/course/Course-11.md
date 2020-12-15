@@ -17,32 +17,42 @@ weekly: 4 horas
 
 ### Acerca del curso
 
-Te enseñaremos los fundamentos para analizar retornos (acciones) y valores de renta fija. Aprenderás a realizar un análisis exploratorio de variables financieras, verificar normalidad y realizar transformaciones de la data para cumplir los supuestos. Sabrás como corregir cuando existen colas pesadas o outliers y realizarás remuestreo (bootstraping) para hallar intervalos de confianza. También elaboraremos modelos estadísticos multivariados.
+En finanzas uno de los principales objetivos es buscar el rendimiento y disminuir el riesgo. Para ello, se usa estadística aplicada, permitiendo evaluar el comportamiento de los instrumentos financieros. Con esto conoceremos cuál es su distribución, cuáles fueron sus valores extremos y podremos realizar un modelo a futuro para determinar si la inversión en dicho instrumento nos generará rentabilidad. 
 
-Veremos con acciones: net returns, gross returns,random walk models. Con valores de renta fija: bonos cupon cero, bonos cupon, rendimiento al vencimiento, continuos compounding, continuos forward rate, sensibilidad del precio al rendimiento. En análisis de datos exploratorios: histogramas, estimacion densidad kernel, estadisticos de orden, test de normalidad, transformaciones geometricas, transformaciones de densidad, test Jarque-Bera, t-distribucion, Generalized Error Distribution, MLE, Cross Validation, transformación Box-Cox, estimación robusta, remuestreo (bootstrap) de intervalos de confianza, ajustar distribucion t multivariada con MLE, ajustar distribucion t sesgada y simular t-distribuciones multivariantes.
+En este curso aprenderás evaluar instrumentos de renta variable y de renta fija. Te enseñaremos como analizarlos y los supuestos que deben cumplir las variables para poder realizar modelos. Los temas que veremos son:
 
-Al final del curso podrás analizar el comportamiento de instrumentos financieros, calcular su estabilidad, variabilidad y encontrarás sus intervalos de confianza para medir su riesgo. Además sabrás como corregir valores extremos, colas pesadas y transformar la data para cumplir con supuestos de normalidad con el fin de realizar regresiones o proyecciones.</p>
+- Acciones y Bonos
+- Análisis de datos exploratorios
+- Transformaciones de densidad
+- Validación cruzada
+- Box-Cox
+- Boostraping
+- Test Jarque-Bera
+- MLE
+
+Al final del curso podrás analizar el comportamiento de instrumentos financieros, calcular su riesgo y determinar sus intervalos de confianza. Sabrás como corregir valores extremos, colas pesadas y transformar la data para cumplir con supuestos de normalidad para realizar regresiones o proyecciones.</p>
 
 
 ### Requerimientos
 
 * Es recomendable que tengas tu propia computadora.
-
 * Es recomendable que hayas tomado nuestro curso de "Econometría I"
 
 ### Obtienes
 
 * Cuaderno de trabajo con todo lo que veremos en el curso, incluidos ejemplos
-
 * Bibliografía adicional para complementar el curso
-
 * Suscripción por tres meses al reporte económico mensual
-
 * Descuento si continuas con el siguiente curso
-
 * Certificado de participación
 
 
 ### Inversión
 
 Por persona tiene un valor de 50 USD. Si te acompañan más de dos personas se realiza un descuento grupal.
+
+### Horarios
+
+- Lunes y Miércoles de 6 PM a 8 PM
+- Martes y Jueves de 8 PM a 10 PM
+- Sábado de 9 AM a 1 PM

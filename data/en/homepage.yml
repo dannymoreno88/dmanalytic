@@ -5,34 +5,34 @@ slider:
   slider_item:
     # slider item loop
     - title : "Conviértete en un Científico de Datos"
-      content : "Aprende a manipular bases de datos y realizar modelos econométricos"
+      content : "Aprende a manipular, proyectar, clasificar y segmentar datos"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Aplíca ahora"
         link : "contact"
 
     # slider item loop
-    - title : "Vuélvete un Experto en Finanzas"
-      content : "Aprende a realizar regresiones, clasificar y predecir instrumentos financieros"
+    - title : "Sé un Experto en Finanzas y Gestiona los Riesgos de tu empresa"
+      content : "Aprende Finanzas Corporativas"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Aplíca ahora"
         link : "contact"
 
     # slider item loop
-    - title : "Sé un Experto en Segmentación de Mercados"
-      content : "Aprende como clasificar tus clientes y encuentra nichos de mercado"
+    - title : "Aprende a clasificar tus clientes y encontrar nichos de mercado"
+      content : "Aprende segmentación de mercados"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Aplíca ahora"
         link : "contact"
 
@@ -68,10 +68,10 @@ about:
   enable : true
   title : "Acerca de DM Analytic"
   image : "images/about/about-us.jpg"
-  content : "Somos una empresa dedicada a la capacitación en economía, finanzas, riesgos, ciencia de datos, busines intelligence y modelos econométricos.
+  content : "Nuestros cursos buscan desarrollar tus habilidades en el manejo y análisis de datos para las áreas de economía, finanzas, riesgos, marketing, tesorería y presupuestos.
 
 
-  Mejoramos tus capacidades y habilidades para que puedas desempeñarte eficientemente en tus estudios o trabajo"
+  Te enseñaremos a usar herramientas de estadística aplicada para que puedas realizar análisis técnicos superiores y te permitan desempeñarte eficientemente en tu trabajo o universidad."
   button:
     enable : true
     label : "Conócenos"
@@ -87,8 +87,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Brindamos un curso gratuito cada mes en:"
-  title : "Finanzas para no Financieros"
+  #subtitle : "Realizamos un curso virtual gratuito cada mes"
+  title : "Realizamos un curso virtual gratuito cada mes"
   button:
     enable : true
     label : "Inscríbete"

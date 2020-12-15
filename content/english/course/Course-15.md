@@ -9,38 +9,47 @@ duration: 1 mes
 fee: '45 USD'
 image: images/courses/course-15.png
 teacher: Danny Moreno
-title: Predicción Futura o Forecasting
+title: Proyección o Forecasting
 type: course
 weekly: 4 horas
 ---
 
 ### Acerca del curso
 
-Te enseñaremos los fundamentos para realizar predicciones con series de tiempo. Aprenderás a crear, manipular y descomponer una serie de tiempo. Realizaremos transformaciones y ajustes de variables, encontraremos valores extremos, realizaremos test para detectar estacionariedad, normalidad y cambio estructural. Conocerás métodos simples de predicción, forecast usando modelos, modelos no lineales y dynamic regression models que pueden modelar fechas de feriados o festivos.
+En este curso aprenderás varios modelos para proyectar una serie de tiempo. Te enseñaremos métodos ingenuos, métodos no lineales, modelos usando descomposición de las series y modelos con transformaciones. Los temas que veremos son:
 
-Veremos metodos simples forecast: mean, naive, seasonal naive, exponencial forecast. Modelos no lineales: spline forecast, piecewise forecast, natural cubic smoothing spline. Descomposición: moving average smooth MA, additive, multiplicative, X11, SEATS, Seasonal and trend decomposition using Loess (STL). Transformaciones: Simple Exponential Smoothing (SES), Holt Winter, damped trend method. Modelos: AR, MA, ARMA, ARIMA, SARIMA, ETS.
+- Smooth moving average
+- X11
+- SEATS
+- Seasonal and trend descomposition
+- SES
+- STL
+- ARIMA
+- SARIMA
+- ETS
 
-Al final del curso podrás descomponer una serie de tiempo según su tendencia, estacionalidad o procesos autoregresivos. Estarás en condiciones proyectar cualquier serie de tiempo, comparar los resultados entre distintos métodos y crear escenarios futuros.</p>
+Al final del curso podrás elaborar predicciones de series de tiempo, donde se incluyan su composición, su estacionalidad y tengan significancia estadística. Te servirá por ejemplo, para proyectar las ventas de tu empresa, conocer las fechas con mayor demanda o proyectar el PIB.</p>
 
 ### Requerimientos
 
 * Es recomendable que tengas tu propia computadora.
-
 * Es recomendable que hayas tomado nuestro curso de "Econometría I".
 
 ### Obtienes
 
 * Cuaderno de trabajo con todo lo que veremos en el curso, incluidos ejemplos
-
 * Bibliografía adicional para complementar el curso
-
 * Suscripción por tres meses al reporte económico mensual
-
 * Descuento si continuas con el siguiente curso
-
 * Certificado de participación
 
 
 ### Inversión
 
 Por persona tiene un valor de 45 USD. Si te acompañan más de dos personas se realiza un descuento grupal.
+
+### Horarios
+
+- Lunes y Miércoles de 8 PM a 10 PM
+- Martes y Jueves de 6 PM a 8 PM
+- Sábado de 1 PM a 7 PM

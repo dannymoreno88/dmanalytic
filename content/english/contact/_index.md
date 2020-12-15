@@ -1,11 +1,9 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-description: Brindamos capacitaciones virtuales o presenciales
+description: Estamos a tus servicios
 draft: false
 title: Contáctanos
 ---
+### Para inscribirte en cualquier curso llena el formulario
 
-Completa el formulario para inscribirte a cualquier curso y escoge el horario que más te convenga. También nos puedes dejar tus sugerencias sobre nuevos cursos que quisieras que se aperturen o puedes inscribirte al curso gratuito de Finanzas para no Financieros.
-
-En cuanto recibamos tus requerimientos nos pondremos en contacto contigo. O puedes contactarte directamente con nosotros:
-
+Si quieres participar del curso gratuito mensual, quieres inscribirte a un evento o quieres ponerte en contacto con nosotros puedes enviarnos un correo electrónico, escribirnos al whatsapp o llamarnos:
